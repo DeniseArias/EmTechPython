@@ -13,13 +13,3 @@ for estado in autos:
         continue
     print("Este auto está: " + estado)
     print("Enviado para distribución")
-
-for caracter in "Python":
-
-  if caracter == "h":
-
-    continue
-
-    print ( "Esta es una h" )
-
-  print ( caracter )
